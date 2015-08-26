@@ -16,3 +16,9 @@ cin >> a >> b
 getline(cin,a);
 getline(cin,b);
 ```
+## 1028
+最后一步要判断是否
+```
+count > 0
+```
+若```count < 0```，不需要输出姓名。
