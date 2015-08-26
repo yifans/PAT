@@ -39,7 +39,7 @@ int main(){
 		}
 	}
 	
-	if(flag == 0) cout << "All Passed" << endl;
+	if(flag == 0) cout << "All passed" << endl;
 	
 	return 0; 
 }
